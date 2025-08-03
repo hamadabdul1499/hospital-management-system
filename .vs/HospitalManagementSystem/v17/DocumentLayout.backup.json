@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\assignstaffdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:assignstaffdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\assignstaffdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:assignstaffdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\updatestaffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:updatestaffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\updatestaffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:updatestaffinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\patientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:patientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\resetpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:resetpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\resetpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:resetpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\doctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:doctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\hospitaladminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:hospitaladminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\doctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:doctorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\addcredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:addcredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|c:\\users\\hamad\\source\\repos\\hospitalmanagementsystem\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\appointmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14BBB7C8-FFE3-432C-AD6F-F2CF797545A9}|HospitalManagementSystem.csproj|solutionrelative:appointmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignStaffDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AssignStaffDepartment.cs",
+              "RelativeDocumentMoniker": "AssignStaffDepartment.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AssignStaffDepartment.cs",
+              "RelativeToolTip": "AssignStaffDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:01:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignStaffDepartment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AssignStaffDepartment.cs",
+              "RelativeDocumentMoniker": "AssignStaffDepartment.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AssignStaffDepartment.cs [Design]",
+              "RelativeToolTip": "AssignStaffDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:01:48.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateStaffInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\UpdateStaffInfo.cs",
+              "RelativeDocumentMoniker": "UpdateStaffInfo.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\UpdateStaffInfo.cs",
+              "RelativeToolTip": "UpdateStaffInfo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:39:19.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStaffInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\UpdateStaffInfo.cs",
+              "RelativeDocumentMoniker": "UpdateStaffInfo.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\UpdateStaffInfo.cs [Design]",
+              "RelativeToolTip": "UpdateStaffInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:39:16.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\PatientInfo.cs",
+              "RelativeDocumentMoniker": "PatientInfo.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\PatientInfo.cs [Design]",
+              "RelativeToolTip": "PatientInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:39:09.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalAdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\HospitalAdminLogin.cs",
+              "RelativeDocumentMoniker": "HospitalAdminLogin.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\HospitalAdminLogin.cs [Design]",
+              "RelativeToolTip": "HospitalAdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:57:06.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPasswords.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\ResetPasswords.cs",
+              "RelativeDocumentMoniker": "ResetPasswords.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\ResetPasswords.cs",
+              "RelativeToolTip": "ResetPasswords.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:41:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPasswords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\ResetPasswords.cs",
+              "RelativeDocumentMoniker": "ResetPasswords.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\ResetPasswords.cs [Design]",
+              "RelativeToolTip": "ResetPasswords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:04.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorLogin.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\DoctorLogin.cs",
+              "RelativeDocumentMoniker": "DoctorLogin.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\DoctorLogin.cs",
+              "RelativeToolTip": "DoctorLogin.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:20:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\DoctorLogin.cs",
+              "RelativeDocumentMoniker": "DoctorLogin.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\DoctorLogin.cs [Design]",
+              "RelativeToolTip": "DoctorLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:17:36.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AppointmentList.cs",
+              "RelativeDocumentMoniker": "AppointmentList.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AppointmentList.cs [Design]",
+              "RelativeToolTip": "AppointmentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:27:42.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\BookAppointment.cs",
+              "RelativeDocumentMoniker": "BookAppointment.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\BookAppointment.cs [Design]",
+              "RelativeToolTip": "BookAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:27:37.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\Appointments.cs",
+              "RelativeDocumentMoniker": "Appointments.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\Appointments.cs [Design]",
+              "RelativeToolTip": "Appointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:27:36.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AddCredentials.cs",
+              "RelativeDocumentMoniker": "AddCredentials.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\HospitalManagementSystem\\AddCredentials.cs",
+              "RelativeToolTip": "AddCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:45:58.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
