@@ -44,7 +44,7 @@ Source files and forms are located in the main project directory
 
 ### Contact
 Created by Hamad Abdul — feel free to reach out!
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/hamad-abdul-51b68133b/) | [GitHub](https://github.com/hamadabdul1499)
 
 
 This project was developed as part of my BSc Software Engineering course at Sheffield Hallam University.
