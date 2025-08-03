@@ -1,0 +1,38 @@
+# Ignore everything in bin except these three credential folders inside bin/Debug
+bin/*
+!bin/Debug/
+!bin/Debug/DoctorCredentials/
+!bin/Debug/HospitalAdminCredentials/
+!bin/Debug/HospitalReceptionistCredentials/
+!bin/Debug/DoctorCredentials/**
+!bin/Debug/HospitalAdminCredentials/**
+!bin/Debug/HospitalReceptionistCredentials/**
+
+# Ignore obj folder
+obj/
+
+# Ignore Visual Studio user-specific files
+*.user
+*.suo
+*.log
+*.cache
+
+# Ignore Visual Studio temporary files and folders
+.vs/
+
+# Ignore build results and temporary files
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+
+# Ignore NuGet packages folder (if any)
+packages/
+
+# Ignore Resharper files (if you use Resharper)
+_ReSharper*/
+
+# Ignore Rider project files (if any)
+.idea/
